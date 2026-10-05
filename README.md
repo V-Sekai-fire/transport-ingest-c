@@ -1,6 +1,6 @@
 # transport-ingest-c
 
-The ingest transport layer in C over picoquic, for terminating client connections; iceoryx2 is the intended hand-off of player input to an interactor.
+The ingest transport layer in C over picoquic, which terminates client connections; iceoryx2 is the intended hand-off to an interactor.
 
 ## What it is for
 
